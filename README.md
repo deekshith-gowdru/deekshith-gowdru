@@ -1,71 +1,17 @@
 # 👋 Hi, I'm Deekshith Gowda
 
-### 🚀 A Passionate Software Developer | AI/ML Enthusiast | Tech Explorer from 🇮🇳 India
+### 💻 Passionate Software Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer from 🇮🇳 India
 
-💻 Passionate about coding, technology, artificial intelligence, and building innovative projects.  
-🚀 Always learning • Always building • Always improving.
+📧 **Email:** deekshithgowdru007@gmail.com
 
----
-
-### 🔭 I'm currently working on:
-- 💻 Web Development Projects
-- 🤖 AI/ML Projects
-- 📱 Innovative Personal Projects
-- 🧠 Data Structures & Algorithms
-
-### 🌱 I'm currently learning:
-- 🐍 Python
-- ⚡ C++
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Development
-- 🧠 Data Structures & Algorithms
-- ☁️ Cloud Technologies
-
-### 🤝 I'm looking to collaborate on:
-- 🚀 Open-Source Projects
-- 🤖 AI/ML Projects
-- 🌐 Web Applications
-- 💡 Innovative Tech Projects
-- 🔥 Real-World Projects
-
-### 🆘 I'm looking for help with:
-- 🤖 Advanced AI/ML
-- 💻 Full-Stack Development
-- ☁️ Cloud Technologies
-- 🧠 Building & Scaling Real-World Applications
-
-### 💬 Ask me about:
-- 💻 Coding & Programming
-- 🤖 AI & Machine Learning
-- 🌐 Web Development
-- 🧠 DSA & Problem Solving
-- 🚀 Technology & Projects
-- 🎨 Creative Tech Ideas
-
-### 📫 How to reach me:
-- 📧 Email: **deekshithgowdru007@gmail.com**
-- 💼 LinkedIn: **deekshith-gowda-n-97542b377**
-- 📸 Instagram: **_.deekshith_gowda.__**
-
-### 😎 Pronouns:
-**He/Him** 👨‍💻
-
-### ⚡ Fun fact:
-> 🚀 I love technology, and technology loves me back! 🤖❤️
-
----
-
-### 🛠️ Tech Stack
-
-🐍 Python • ⚡ C++ • ☕ Java • 🌐 HTML • 🎨 CSS • 🟨 JavaScript  
-🤖 AI/ML • 🧠 DSA • 🗄️ SQL • 🔧 Git & GitHub • ☁️ Cloud
-
----
-
-### 🚀 Code. Create. Learn. Repeat.
-
-⭐ **Thanks for visiting my profile!**  
-🤝 Feel free to connect, collaborate, and build something awesome together!
+- 🔭 **I'm currently working on:** AI/ML & Web Development Projects
+- 🌱 **I'm currently learning:** Python, C++, AI/ML & DSA
+- 🤝 **I'm looking to collaborate on:** Open-Source & AI/ML Projects
+- 🆘 **I'm looking for help with:** Advanced AI/ML & Full-Stack Development
+- 💬 **Ask me about:** Coding, AI/ML, Tech & Projects
+- 📫 **How to reach me:** Email / LinkedIn
+- 😎 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I ❤️ Tech & Tech ❤️ Me 🚀
 
 # 💫 About Me:
 I’m currently working on: AI/ML projects, web development, and personal coding projects<br>I’m looking to collaborate on: Open-source projects, AI/ML projects, and innovative web applications<br>I’m looking for help with: Advanced AI/ML, full-stack development, and building real-world projects<br>I’m currently learning: Python, C++, Data Structures & Algorithms, AI/ML, and Full-Stack Development<br>Ask me about: Coding, AI/ML, web development, tech, fitness, and creative projects<br>Fun fact: I love turning ideas into projects and constantly learning something new 🚀
